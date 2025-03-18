@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{68b9bf91-a27f-4716-87a7-08db03134568}">
+		<property name="assetPath">
+			<value>npc/NPC_angry_man.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.23540625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05d4d0d3-5fce-4c76-8799-058a71a4c790}</destination>
+		</relationship>
+	</object>
+</objects>
