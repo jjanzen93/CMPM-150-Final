@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{72d1bf0a-cf18-4fd6-9eed-81abfa50416d}">
 		<property name="name">
-			<value>gull_poop</value>
+			<value>poop</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

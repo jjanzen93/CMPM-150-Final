@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{95a09619-9d94-498e-81e6-831d08cfd98b}">
+		<property name="assetPath">
+			<value>character/player/gull_eat_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05d4d0d3-5fce-4c76-8799-058a71a4c790}</destination>
+		</relationship>
+	</object>
+</objects>

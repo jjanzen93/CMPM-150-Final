@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{3df5dfa6-0129-4acf-b37f-14e9dad6488a}">
 		<property name="name">
-			<value>gui_stage level up</value>
+			<value>increase_stage</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

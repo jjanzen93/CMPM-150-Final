@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dfb1e60e-fb3b-42e8-b68a-e2ccb493ef99}">
 		<property name="name">
-			<value>gui_destruct</value>
+			<value>destruct</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

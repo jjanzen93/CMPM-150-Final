@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4daa8ee2-8058-4caf-a50d-e994384cab3b}">
+		<property name="name">
+			<value>shop_prox</value>
+		</property>
+		<relationship name="folder">
+			<destination>{59dc5168-7d07-40da-a8c6-8135e78719fd}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f807b693-00cd-4ef1-a5f7-44b0fd4d1c09}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f807b693-00cd-4ef1-a5f7-44b0fd4d1c09}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

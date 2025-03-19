@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4e31f465-d068-457b-8583-120d01078ad5}">
+		<property name="assetPath">
+			<value>music/song_cello_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>17</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05d4d0d3-5fce-4c76-8799-058a71a4c790}</destination>
+		</relationship>
+	</object>
+</objects>

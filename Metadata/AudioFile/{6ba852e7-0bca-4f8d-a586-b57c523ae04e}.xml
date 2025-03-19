@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6ba852e7-0bca-4f8d-a586-b57c523ae04e}">
+		<property name="assetPath">
+			<value>character/player/gull_squawk_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.6800000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05d4d0d3-5fce-4c76-8799-058a71a4c790}</destination>
+		</relationship>
+	</object>
+</objects>

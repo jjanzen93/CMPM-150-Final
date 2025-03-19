@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6690138d-846e-446d-a25f-af7e63da2173}">
 		<property name="name">
-			<value>gui_poi complete</value>
+			<value>poi_complete</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
