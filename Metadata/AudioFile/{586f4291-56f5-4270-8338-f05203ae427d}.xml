@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{586f4291-56f5-4270-8338-f05203ae427d}">
 		<property name="assetPath">
-			<value>destructible_2.wav</value>
+			<value>character/player/destructible_2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
